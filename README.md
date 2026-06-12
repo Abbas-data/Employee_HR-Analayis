@@ -102,8 +102,7 @@ Contains employee attrition details:
 21. Employees earning more than department average salary
 22. Highest paid employee in each department
 23. Department-wise employee ranking based on salary
-24. Attrition rate analysis
-25.    
+24. Attrition rate analysis   
 ---
 
 ## Project Files
@@ -113,7 +112,7 @@ Employee-HR-Analytics/
 │── Employee_HR_Analytics_Data.xlsx
 │── Employee_HR_Analytics_SQL.sql
 │── README.md
-│── screenshots/
+│── employee_Table
 ```
 
 ---
