@@ -248,16 +248,3 @@ FROM attrition;
 
 
 
-
-
-
-
-
-
-5. Department with highest salary expense
-
---Q.21 Employees earning more than department avg salary	 
-
-
-
-
