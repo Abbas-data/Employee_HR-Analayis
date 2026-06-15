@@ -110,45 +110,8 @@ Contains employee attrition details:
 ```text
 Employee-HR-Analytics/
 │── Employee_HR_Analytics_Data.xlsx
-│── Employee_HR_Analytics_SQL.sql
-│── README.md
-│── employee_Table
-```
+│── Employee_HR_Analytics_SQ
 
----
 
-## Screenshots
-
-### Employees Table
-
-Add screenshot here
-
-```md
-![Employees Table](screenshots/employees_table.png)
-```
-
-### Department Table
-
-Add screenshot here
-
-```md
-![Department Table](screenshots/department_table.png)
-```
-
-### Query Results
-
-Add screenshot here
-
-```md
-![Highest Salary Employee](screenshots/highest_salary.png)
-
-![Average Salary](screenshots/average_salary.png)
-
-![Top 3 Highest Paid Employees](screenshots/top_3_employees.png)
-```
-
----
-
-## Conclusion
 
 This project demonstrates how SQL can be used for **HR data analysis** to generate meaningful business insights regarding employee performance, salaries, attendance, and attrition. It also showcases practical SQL problem-solving skills used in real-world business environments.
